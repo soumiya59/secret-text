@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: #261C2C;
+    color: #6E85B2;
+}
+/* form button{
+    background-color: #5C527F;
+} */
