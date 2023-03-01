@@ -13,10 +13,10 @@
      <div class="flex">
         <div class="flex mx-auto mt-10 text-2xl">
         <p class="md:pr-8 pr-5">
-            <input type="radio" name="anonym" class="h-6 w-6"> you can read it
+            <input type="radio" name="anonym" class="h-5 w-5"> you can read it
         </p>
         <p>
-            <input type="radio" name="anonym" class="h-6 w-6"> don't read it
+            <input type="radio" name="anonym" class="h-5 w-5"> don't read it
         </p>
         </div>
      </div>
